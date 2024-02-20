@@ -1,0 +1,17 @@
+
+   .wrapper> div{
+    display: grid;
+   
+    grid-template-columns:60% 13% 13% 13%;
+    padding:1em;
+
+   } 
+   
+   .wrapper> div{
+    background: orange
+    ;
+
+   }
+
+
+   
